@@ -1,4 +1,4 @@
-# An END-TO-END Indian Currency Classifier Using CNN with AWS Deployment
+# An END-TO-END Indian Currency Classifier Using CNN with DVC Pipeline and CI/CD AWS Deployment
 
 ## Workflows
 
