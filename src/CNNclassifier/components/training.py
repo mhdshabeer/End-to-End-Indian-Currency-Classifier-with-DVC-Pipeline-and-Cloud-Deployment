@@ -55,6 +55,7 @@ class Training:
         model.save(path)
 
     def train(self, callback_list: list):
+        print(self.train_generator.class_indices)
         self.steps_per_epoch = (
             self.train_generator.samples // self.train_generator.batch_size
         )

@@ -22,7 +22,7 @@ class PredictionPipeline:
         print(result)
 
         # Class mapping
-        classes = {0: "10", 1: "100", 2: "20", 3: "200", 4: "50", 5: "500", 6: "2000"}
+        classes = {0: "10", 1: "100", 2: "20", 3: "200", 4: "2000", 5: "50", 6: "500"}
 
         prediction = classes.get(result[0], "Unknown")
 
