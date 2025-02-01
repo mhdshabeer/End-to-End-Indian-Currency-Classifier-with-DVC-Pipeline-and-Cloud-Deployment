@@ -1,5 +1,4 @@
-# Chicken-Disease-Classification--Project
-
+# An END-TO-END Indian Currency Classifier Using CNN with AWS Deployment
 
 ## Workflows
 
